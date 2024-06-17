@@ -1,4 +1,4 @@
-module github.com/dop251/diskrsync
+module github.com/datacosmos-br/diskrsync
 
 go 1.22
 
