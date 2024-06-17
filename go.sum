@@ -2,8 +2,8 @@ github.com/VividCortex/ewma v1.2.0 h1:f58SaIzcDXrSy3kWaHNvuJgJ3Nmz59Zji6XoJR/q1o
 github.com/VividCortex/ewma v1.2.0/go.mod h1:nz4BbCtbLyFDeC9SUHbtcT5644juEuWfUAUnGx7j5l4=
 github.com/acarl005/stripansi v0.0.0-20180116102854-5a71ef0e047d h1:licZJFw2RwpHMqeKTCYkitsPqHNxTmd4SNR5r94FGM8=
 github.com/acarl005/stripansi v0.0.0-20180116102854-5a71ef0e047d/go.mod h1:asat636LX7Bqt5lYEZ27JNDcqxfjdBQuJ/MM4CN/Lzo=
-github.com/datacosmos-br/diskrsync v1.3.2 h1:8aMwanIKJjXFDEreUe4xwNggRw1IpZqTb5Bj8OY1CRg=
-github.com/datacosmos-br/diskrsync v1.3.2/go.mod h1:kGUdEYE1rvbRwdA1IiOl+TJo0Nvg9Y1Sp1E6/xc/iX8=
+github.com/datacosmos-br/diskrsync v1.3.3 h1:K0P20gB1ZaByJ734fAuGspCUU0ql8wGJN1z/eDdzV6w=
+github.com/datacosmos-br/diskrsync v1.3.3/go.mod h1:jJSCKsXyX4U1sCh8EnOAB5A2zoFgBdNZa5P1OyUpkP8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/dop251/buse v1.2.0/go.mod h1:7e/aSLUZG3TDBshKkAhcHKvZy7x4NvE+yIGD/DJhGAY=
