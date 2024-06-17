@@ -9,7 +9,12 @@ require (
 	golang.org/x/sys v0.21.0 // indirect
 )
 
-require golang.org/x/crypto v0.24.0
+require (
+	github.com/dop251/diskrsync v1.3.0
+	golang.org/x/crypto v0.24.0
+)
+
+replace github.com/dop251/diskrsync => github.com/datacosmos-br/diskrsync v1.3.1
 
 require (
 	github.com/VividCortex/ewma v1.2.0 // indirect
